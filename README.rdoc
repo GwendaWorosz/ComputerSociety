@@ -1,6 +1,6 @@
 == README
 
-This README is a document that tells whatever steps are essential to get an application in a running form. Things that are included to cover these steps are:
+This README is a computer document that tells whatever steps are essential to get an application in a running form. Things that are included to cover these steps are:
 
 Installation of an application
 
@@ -18,5 +18,5 @@ Various services provide i.e. search engines, cookies, cache etc
 
 Instructions of a deployment
 
-Still you need anything, feel free to contact us at https://collegepaperworld.com
+Still you need anything related to computer, feel free to contact us at https://collegepaperworld.com
 
