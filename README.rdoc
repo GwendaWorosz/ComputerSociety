@@ -1,28 +1,22 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README is a document that tells whatever steps are essential to get an application in a running form. Things that are included to cover these steps are:
 
-Things you may want to cover:
+Installation of an application
 
-* Ruby version
+Ruby version
 
-* System dependencies
+Dependencies occur in system
 
-* Configuration
+Creation of Database
 
-* Database creation
+Configuration and installation of a database
 
-* Database initialization
+Method to run a test suite 
 
-* How to run the test suite
+Various services provide i.e. search engines, cookies, cache etc
 
-* Services (job queues, cache servers, search engines, etc.)
+Instructions of a deployment
 
-* Deployment instructions
+Still you need anything, feel free to contact us at https://collegepaperworld.com
 
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
